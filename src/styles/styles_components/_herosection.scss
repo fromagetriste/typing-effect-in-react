@@ -1,0 +1,35 @@
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  padding: 5rem;
+}
+
+.container-un {
+  background-color: darkolivegreen;
+  height: 20rem;
+  width: 30rem;
+  padding: 3rem;
+  border-radius: 10px;
+}
+.container-deux {
+  background-color: dimgray;
+  height: 20rem;
+  width: 30rem;
+  padding: 3rem;
+  border-radius: 10px;
+}
+
+.class-blue {
+  color: blue;
+}
+.class-red {
+  color: red;
+}
+.class-orange {
+  color: orange;
+}
+#class-souligne {
+  text-decoration: underline;
+}
